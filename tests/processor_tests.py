@@ -1,5 +1,5 @@
-import unittest, json
-from processor import Processor
+import unittest, json, re
+from processor import Processor	
 
 class ProcessorTests(unittest.TestCase):
 
@@ -12,6 +12,18 @@ class ProcessorTests(unittest.TestCase):
 
 	def test_raw_data_exsist(self):
 		self.assertTrue(self.processor.raw_data)
+
+	def test_selection_or_raw_words(self):
+
+		self.processor.retrive_words()
+		self.assertGreater(len(self.processor.raw_words), 0)
+		print self.processor.raw_words
+
+	def test_only_valid_words_are_in_data(self):
+		self.processor.retrive_words()
+		self.processor.clean_words()
+		pattern = '^[0-9]|:|?|\\|.$'
+		self.NotRegexMatches(self.processor.cleaned_words, )
 
 		
 
