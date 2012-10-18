@@ -13,7 +13,11 @@ class ProcessorTests(unittest.TestCase):
 	def test_raw_data_exsist(self):
 		self.assertTrue(self.processor.raw_data)
 
+	def test_if_words_are_stripped(self):
+
 		
+
+
 
 
 if __name__ == '__main__':
