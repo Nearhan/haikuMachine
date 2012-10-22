@@ -3,6 +3,8 @@ from django.views.generic.list import ListView
 from simpleApp.models import Word
 from simpleApp.forms import WordForm
 
+from django.views.generic.form import FormView
+
 class WordDetailView(ListView):
 
 	model = Word

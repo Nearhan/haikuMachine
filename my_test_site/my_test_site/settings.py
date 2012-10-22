@@ -1,5 +1,9 @@
 # Django settings for my_test_site project.
 
+import os
+
+PROJECT_ROOT = os.path.abspath('')
+
 DEBUG = True
 TEMPLATE_DEBUG = DEBUG
 
@@ -12,7 +16,7 @@ MANAGERS = ADMINS
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3', # Add 'postgresql_psycopg2', 'mysql', 'sqlite3' or 'oracle'.
-        'NAME': '/Users/Nearhan/Desktop/haikuMachine/my_test_site/db/testdb', # Or path to database file if using sqlite3.
+        'NAME': os.path.join(PROJECT_ROOT, 'db/testdb'), #'/Users/Nearhan/Desktop/haikuMachine/my_test_site/db/testdb', # Or path to database file if using sqlite3.
         'USER': '',                      # Not used with sqlite3.
         'PASSWORD': '',                  # Not used with sqlite3.
         'HOST': '',                      # Set to empty string for localhost. Not used with sqlite3.
@@ -103,7 +107,7 @@ ROOT_URLCONF = 'my_test_site.urls'
 WSGI_APPLICATION = 'my_test_site.wsgi.application'
 
 TEMPLATE_DIRS = (
-    '/Users/Nearhan/Desktop/haikuMachine/my_test_site/templates',
+    os.path.join(PROJECT_ROOT, 'templates'), #/Users/Nearhan/Desktop/haikuMachine/my_test_site/templates',
     # Put strings here, like "/home/html/django_templates" or "C:/www/django/templates".
     # Always use forward slashes, even on Windows.
     # Don't forget to use absolute paths, not relative paths.
