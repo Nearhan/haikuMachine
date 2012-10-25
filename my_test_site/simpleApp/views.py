@@ -1,5 +1,6 @@
 # Create your views here.
 from django.views.generic.list import ListView
+from django.views.generic.edit import ProcessFormView
 from simpleApp.models import Word
 from simpleApp.forms import WordForm
 
@@ -33,4 +34,13 @@ class WordDetailView(ListView):
 
         context = self.get_context_data(object_list=self.object_list)
         return self.render_to_response(context)
+
+
+class AnotherWordDetailView(ListView, ProcessFormView):
+
+    model = Word
+    template_name = 'word.html'
+    context_object_name = 'words'
+
+
 

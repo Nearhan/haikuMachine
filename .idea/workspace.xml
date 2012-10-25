@@ -24,57 +24,10 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="list.py" pinned="false" current="true" current-in-tab="true">
-        <entry file="file:///Library/Python/2.7/site-packages/django/views/generic/list.py">
+      <file leaf-file-name="edit.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file:///Library/Python/2.7/site-packages/django/views/generic/edit.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="16" selection-start="402" selection-end="402" vertical-scroll-proportion="0.14051522">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="base.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file:///Library/Python/2.7/site-packages/django/views/generic/base.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="57" column="49" selection-start="2091" selection-end="2091" vertical-scroll-proportion="36.615383">
-              <folding>
-                <element signature="e#0#36#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="decorators.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file:///Library/Python/2.7/site-packages/django/utils/decorators.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="27" selection-start="164" selection-end="164" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="__builtin__.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Library/Caches/PyCharm20/python_stubs/596071422/__builtin__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2161" column="35" selection-start="72372" selection-end="72372" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="functools.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/functools.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="66" selection-start="821" selection-end="821" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="__init__.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file:///Library/Python/2.7/site-packages/django/views/generic/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="56" selection-start="412" selection-end="412" vertical-scroll-proportion="0.0">
+            <state line="65" column="42" selection-start="1912" selection-end="1912" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -83,7 +36,7 @@
       <file leaf-file-name="detail.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file:///Library/Python/2.7/site-packages/django/views/generic/detail.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="0" selection-start="543" selection-end="543" vertical-scroll-proportion="0.0">
+            <state line="7" column="6" selection-start="277" selection-end="277" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -92,10 +45,8 @@
       <file leaf-file-name="functionalViews.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/my_test_site/simpleApp/functionalViews.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="45" selection-start="653" selection-end="653" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#0#36#0" expanded="true" />
-              </folding>
+            <state line="29" column="0" selection-start="915" selection-end="915" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -103,7 +54,34 @@
       <file leaf-file-name="forms.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/my_test_site/simpleApp/forms.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="0" selection-start="157" selection-end="157" vertical-scroll-proportion="0.0">
+            <state line="5" column="21" selection-start="117" selection-end="117" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file:///Library/Python/2.7/site-packages/django/forms/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="224" column="25" selection-start="8660" selection-end="8660" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="forms.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file:///Library/Python/2.7/site-packages/django/forms/forms.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="96" column="26" selection-start="3913" selection-end="3913" vertical-scroll-proportion="0.2740047">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="encoding.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file:///Library/Python/2.7/site-packages/django/utils/encoding.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="6" selection-start="486" selection-end="486" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -112,10 +90,26 @@
       <file leaf-file-name="views.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/my_test_site/simpleApp/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="31" selection-start="177" selection-end="177" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#26#72#0" expanded="true" />
-              </folding>
+            <state line="4" column="32" selection-start="193" selection-end="193" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my_test_site/simpleApp/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="0" selection-start="231" selection-end="231" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tests.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my_test_site/simpleApp/tests.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -143,8 +137,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="10" />
-    <option name="y" value="22" />
+    <option name="x" value="2001" />
+    <option name="y" value="3" />
     <option name="width" value="1881" />
     <option name="height" value="1002" />
   </component>
@@ -284,8 +278,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors" />
     <property name="FullScreen" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -379,14 +373,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="22" width="1881" height="1002" extended-state="0" />
+    <frame x="2001" y="3" width="1881" height="1002" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13514987" sideWeight="0.9909194" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13678475" sideWeight="0.9909194" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -456,48 +450,16 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/my_test_site/simpleApp/__init__.py">
+    <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/functools.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my_test_site/my_test_site/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="1" selection-start="357" selection-end="357" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my_test_site/simpleApp/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="109" selection-end="109" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my_test_site/my_test_site/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="55" selection-end="55" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my_test_site/templates/word.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="15" selection-start="199" selection-end="199" vertical-scroll-proportion="-7.6923075" />
-      </provider>
-    </entry>
-    <entry file="file:///Library/Python/2.7/site-packages/django/views/generic/edit.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="11" selection-start="720" selection-end="720" vertical-scroll-proportion="0.0">
+        <state line="20" column="66" selection-start="821" selection-end="821" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file:///Library/Python/2.7/site-packages/django/views/generic/__init__.py">
+    <entry file="file:///Library/Python/2.7/site-packages/django/views/generic/list.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="56" selection-start="412" selection-end="412" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Python/2.7/site-packages/django/utils/decorators.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="27" selection-start="164" selection-end="164" vertical-scroll-proportion="0.0">
+        <state line="122" column="6" selection-start="4546" selection-end="4546" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -509,57 +471,97 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/functools.py">
+    <entry file="file:///Library/Python/2.7/site-packages/django/views/generic/base.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="66" selection-start="821" selection-end="821" vertical-scroll-proportion="0.0">
+        <state line="57" column="49" selection-start="2091" selection-end="2091" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/my_test_site/simpleApp/views.py">
+    <entry file="file:///Library/Python/2.7/site-packages/django/views/generic/list_detail.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="31" selection-start="177" selection-end="177" vertical-scroll-proportion="0.0">
+        <state line="24" column="20" selection-start="822" selection-end="822" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="e#26#72#0" expanded="true" />
+            <element signature="e#0#50#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/my_test_site/simpleApp/forms.py">
+    <entry file="file:///Library/Python/2.7/site-packages/django/views/generic/create_update.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="157" selection-end="157" vertical-scroll-proportion="0.0">
+        <state line="20" column="70" selection-start="851" selection-end="851" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#0#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_test_site/simpleApp/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="0" selection-start="231" selection-end="231" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/my_test_site/simpleApp/functionalViews.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="45" selection-start="653" selection-end="653" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#0#36#0" expanded="true" />
-          </folding>
+        <state line="29" column="0" selection-start="915" selection-end="915" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Python/2.7/site-packages/django/views/generic/edit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="65" column="42" selection-start="1912" selection-end="1912" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file:///Library/Python/2.7/site-packages/django/views/generic/detail.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="543" selection-end="543" vertical-scroll-proportion="0.0">
+        <state line="7" column="6" selection-start="277" selection-end="277" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file:///Library/Python/2.7/site-packages/django/views/generic/base.py">
+    <entry file="file://$PROJECT_DIR$/my_test_site/simpleApp/tests.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="57" column="49" selection-start="2091" selection-end="2091" vertical-scroll-proportion="36.615383">
-          <folding>
-            <element signature="e#0#36#0" expanded="true" />
-          </folding>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file:///Library/Python/2.7/site-packages/django/views/generic/list.py">
+    <entry file="file://$PROJECT_DIR$/my_test_site/simpleApp/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="16" selection-start="402" selection-end="402" vertical-scroll-proportion="0.14051522">
+        <state line="4" column="32" selection-start="193" selection-end="193" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_test_site/simpleApp/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="21" selection-start="117" selection-end="117" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Python/2.7/site-packages/django/forms/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="224" column="25" selection-start="8660" selection-end="8660" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Python/2.7/site-packages/django/utils/encoding.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="6" selection-start="486" selection-end="486" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Python/2.7/site-packages/django/forms/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="96" column="26" selection-start="3913" selection-end="3913" vertical-scroll-proportion="0.2740047">
           <folding />
         </state>
       </provider>
